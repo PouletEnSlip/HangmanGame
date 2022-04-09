@@ -1,2 +1,2 @@
 # HangmanGame
-Console Hangman game in C++
+Console Hangman game built in C++ with QT.
