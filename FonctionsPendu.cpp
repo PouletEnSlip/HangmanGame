@@ -1,10 +1,3 @@
-/*
-    Nom : FonctionPendu.cpp
-    Sujet : Jeu du pendu
-    Créateur : Léo Seguin
-    Date : 25/01/21
-*/
-
 #include <iostream>
 #include <windows.h>
 #include <time.h>
@@ -52,7 +45,6 @@ CJeuPendu::CJeuPendu()
 
 CJeuPendu::~CJeuPendu()
 {
-
 }
 
 unsigned short CJeuPendu::getTentative()
