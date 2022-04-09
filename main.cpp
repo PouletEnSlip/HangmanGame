@@ -1,10 +1,3 @@
-/*
-    Nom : main.cpp
-    Sujet : Jeu du pendu
-    Créateur : Léo Seguin
-    Date : 25/01/21
-*/
-
 #include <iostream>
 #include <windows.h>
 #include <string>
